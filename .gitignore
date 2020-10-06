@@ -1,0 +1,10 @@
+*.xlsx
+*.obj
+*.so
+*.out
+*.dll
+*.lib
+*.a
+*.o
+*.exe
+**/build/

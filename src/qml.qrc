@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>maps.qml</file>
+        <file>kotic.jpg</file>
+        <file>marker.png</file>
+        <file>MarkerForm.qml</file>
+        <file>NewMarker.qml</file>
+        <file>NewMarkerForm.ui.qml</file>
+        <file>Login.qml</file>
+        <file>LoginForm.ui.qml</file>
+        <file>Registration.qml</file>
+        <file>RegistrationForm.ui.qml</file>
+        <file>forTest.qml</file>
+        <file>ico/addnew.png</file>
+        <file>data/userInfo.json</file>
+        <file>MyRoom.qml</file>
+        <file>MyRoomForm.ui.qml</file>
+        <file>Database.js</file>
+        <file>AboutUs.qml</file>
+        <file>ico/green.png</file>
+        <file>ico/red.png</file>
+        <file>ico/synchronize.png</file>
+        <file>ico/yellow.png</file>
+        <file>ico/motherrussia.jpg</file>
+        <file>ico/type.png</file>
+    </qresource>
+</RCC>
