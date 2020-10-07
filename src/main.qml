@@ -9,10 +9,10 @@ import ToDo 1.0
 ApplicationWindow {
     id: window
     visible: true
-    width: Screen.desktopAvailableWidth
-    height: Screen.desktopAvailableHeight // for telephone
-//    width : 480
-//    height: 640
+   // width: Screen.desktopAvailableWidth
+   // height: Screen.desktopAvailableHeight // for telephone
+    width : 480
+    height: 640
     title: qsTr("Stack")
 
     property string markerText;
