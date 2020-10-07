@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 
-set(APP_NAME "My Point!")
-
-project(${APP_NAME}
+project(my_point_client
     LANGUAGES CXX
     VERSION 0.1
 )
@@ -17,6 +15,6 @@ find_package(Qt5 CONFIG REQUIRED
     Positioning
 )
 
-include(CmakePackageConfigHelpers)
+include(CMakePackageConfigHelpers)
 
 add_subdirectory(src)

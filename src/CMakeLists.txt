@@ -1,6 +1,3 @@
-set(CMAKE_AUTOMOC ON)
-set(CMAKE_AUTORCC ON)
-
 add_executable(${PROJECT_NAME})
 
 target_sources(${PROJECT_NAME} 
@@ -34,5 +31,8 @@ PROPERTIES
     CXX_STANDARD 20
     CXX_STANDARD_REQUIRED YES
     CXX_EXTENSIONS NO
+    OUTPUT_NAME "My Point!"
+    AUTOMOC ON
+    AUTORCC ON
 )
     
