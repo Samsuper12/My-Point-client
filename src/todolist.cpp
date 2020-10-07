@@ -3,7 +3,7 @@
 ToDoList::ToDoList(QObject *parent) : QObject(parent)
 {
 
-    m_client = new MyClient("212.87.160.50", 2323);
+    m_client = new MyClient("192.168.0.111", 2323);
 
     m_client->sendMessageToServer("hello from client");
 
